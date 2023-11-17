@@ -11,3 +11,8 @@ h3 {
 p {
   font-family: "Open Sans", sans-serif;
 }
+
+.background {
+  background-image: url("../images/bg-desktop.svg");
+  background-size: cover;
+}
